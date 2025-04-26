@@ -13,7 +13,7 @@
 
 <table align="center">
   <tr>
-    <td width="60%">
+    <td width="70%">
 
 - 🎓 I'm a Computer Science student at **SVCE, Indore**  
 - 💻 I vibe with **Frontend, Python, C/C++**  
@@ -24,7 +24,7 @@
 
 </td>
     <td>
-      <img src="https://i.pinimg.com/736x/ca/d8/ff/cad8ff2f7ba3a2711cc7dbfbc3abb99d.jpg" width="180" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVhMDVwaGx2em9ucGZvNWp5cDAxcnlhaWd3eGpxb3BkYTAxZTlneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YRThiAEEYVNtC5acLO/200.webp" width="200" />
     </td>
   </tr>
 </table>
@@ -42,10 +42,10 @@
 
 ---
 
-## 🎧 Coding Mode: Always Lofi
+## 🎧 Coding Mode: Fast and Furious 🏍️💨
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="350" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo0cTM4Y2twdm16Zm45bWhzY21haGc3YXdkZXcwNXZobjZ0eWJkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" width="350" />
 </p>
 
 ---
