@@ -4,8 +4,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=435&lines=Hey!+I'm+Anshu+Rathore+%F0%9F%91%8B;Frontend+Dev+%7C+Python+C%2FC%2B%2B+Ninja;Welcome+to+my+tech+zone+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=600&lines=Hey!+I'm+Anshu+Rathore+%F0%9F%91%8B;Frontend+Dev+%7C+Python+C%2FC%2B%2B+Ninja;Gear+5+Activated+%E2%80%94+Code+Beyond+Limits!+%F0%9F%8F%B4%E2%80%8D%F0%9F%9A%A0" />
 </h1>
+
 
 ---
 
