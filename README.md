@@ -52,22 +52,19 @@
 </p>
 
 ---
-
-
 ## 🔥 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ashuu021&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="160" />
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashuu021&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
-
   <!-- Top Languages -->
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ashuu021&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
 
+
 </div>
+
 
 
 
