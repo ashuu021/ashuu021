@@ -1,6 +1,5 @@
 
 
-
  
 <p align="center">
   <img src="https://i.pinimg.com/originals/c0/7a/0e/c07a0e54601516dbf8b399832636507a.gif" width="180" alt="Lofi Coder" />
@@ -67,23 +66,19 @@
 
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 ---
+
 ## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashuu021/ashuu021/output/dist/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashuu021/ashuu021/output/dist/snake.svg">
-    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/ashuu021/ashuu021/output/dist/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashuu021/ashuu021/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashuu021/ashuu021/output/snake.svg">
+    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/ashuu021/ashuu021/output/snake.svg" />
   </picture>
 </p>
-
-
 
 ---
 
@@ -103,4 +98,3 @@
 <p align="center">
   <i>✨ “Eat 🍜 Code 💻 Sleep 😴 Repeat 🔁” ✨</i>
 </p>
-
