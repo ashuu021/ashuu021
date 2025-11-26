@@ -74,7 +74,9 @@
 
 <p align="center">
   <picture>
-   
+![snake gif](https://github.com/ashuu021/ashuu021/blob/output/github-snake-dark.svg)
+
+
   </picture>
 </p>
 
