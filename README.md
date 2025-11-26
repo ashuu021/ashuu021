@@ -51,34 +51,28 @@
 </p>
 
 ---
-## 🔥 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ashuu021&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="160" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ashuu021&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
-
-
-</div>
-
-
-
-
-
----
-
-## 🐍 Contribution Graph
+## 🐍 GitHub Stats & Contribution Graph
 
 <p align="center">
+
+  <!-- Snake Animation -->
   <picture>
-![snake gif](https://github.com/ashuu021/ashuu021/blob/output/github-snake-dark.svg)
-
-
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashuu021/ashuu021/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ashuu021/ashuu021/output/github-snake.svg" alt="snake gif"/>
   </picture>
+
+  <br/>
+
+  <!-- GitHub Stats with private contributions -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ashuu021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+
+
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ashuu021&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+
 </p>
+
 
 ---
 
